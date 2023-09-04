@@ -1,0 +1,282 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	font-family: "Gilroy";
+}
+
+header {
+	display: flex;
+	justify-content: space-between;
+	padding: 40px 40px 40px 80px;
+}
+
+.logo1 {
+	font-size: 18px;
+}
+
+.top-roww > ul > li {
+	display: inline;
+	list-style-type: none;
+	font-size: 18px;
+	margin-left: 10px;
+}
+
+.button-1 {
+	padding: 14px 25px 14px 25px;
+	background-color: rgb(196, 196, 196);
+	border: 1px solid rgb(247, 148, 30);
+	border-radius: 5px;
+	color: rgb(247, 148, 30);
+	cursor: pointer;
+}
+
+.chapter1 {
+	width: 433px;
+	height: 400px;
+	margin: 121px 86px 128px 121px;
+}
+
+.text1-chapter1 {
+	font-size: 46px;
+}
+
+.text2-chapter1 {
+	font-size: 20px;
+}
+
+.button-2 {
+	cursor: pointer;
+	border-radius: 5px;
+	background-color: #f7941e;
+	margin-top: 52px;
+	padding: 20px 27px 20px 27px;
+	color: #fff;
+	border: 1px solid #f7941e;
+}
+
+.rod {
+	display: flex;
+	width: 100%;
+	background-color: rgb(241, 241, 242);
+}
+
+.rod > img {
+	margin-top: 5px;
+	width: 660px;
+	height: 100%;
+	margin-left: 120px;
+	position: relative;
+}
+
+.rod2 {
+	background-color: rgb(241, 241, 242);
+	display: flex;
+}
+
+.rod2 > img {
+	width: 636px;
+	height: 618px;
+}
+
+.box-rod2 {
+	margin: 164px 0 104px 102px;
+	width: 441px;
+}
+.box-text1 {
+	font-size: 32px;
+}
+.box-text2 {
+	font-size: 20px;
+	margin-top: 33px;
+}
+.box-rod2 > button {
+	margin-top: 35px;
+	padding: 20px 46px 20px 46px;
+	color: #f7941e;
+	cursor: pointer;
+	border: 1px solid #f7941e;
+	border-radius: 5px;
+}
+.advertising-big-txt {
+	margin-top: 96px;
+	text-align: center;
+	font-size: 32px;
+}
+.advertising-small-txt {
+	margin-top: 23px;
+	font-size: 18px;
+	text-align: center;
+}
+.photo-sections {
+	display: flex;
+	margin: auto;
+	margin-top: 65px;
+}
+.row-photos > img {
+	width: 270px;
+}
+.row-photos {
+	margin-left: 30px;
+	width: 270px;
+	height: 435px;
+	background-color: #fafafa;
+}
+.text-a {
+	font-size: 20px;
+	position: absolute;
+	margin-top: 24px;
+	margin-left: 24px;
+}
+.text-b {
+	font-size: 14px;
+	cursor: pointer;
+	position: relative;
+	top: 95px;
+	left: 24px;
+}
+.section3 {
+	margin: auto;
+	margin-top: 140px;
+	background-color: #f7941e;
+	width: 1440px;
+}
+.buttons {
+	display: flex;
+	margin-left: 229px;
+}
+.rod3 {
+	display: flex;
+}
+.button1 {
+	color: #fff;
+	padding: 15px 27px 15px 27px;
+	background-color: #231f20;
+	border-radius: 5px;
+	cursor: pointer;
+	height: 50px;
+	margin-top: 96px;
+	width: 200px;
+	border: 1px solid black;
+}
+.button2 {
+	background-color: #f7941e;
+	color: #231f20;
+	border-radius: 5px;
+	cursor: pointer;
+	height: 50px;
+	padding: 15px 27px 15px 27px;
+	border: 2px solid #231f20;
+	width: 200px;
+	position: relative;
+	top: 96px;
+	left: 16px;
+}
+.Thick-text, .Thin-text {
+	font-size: 32px;
+}
+.start-text {
+	margin: 61px 0 69px 235px;
+}
+.advertising-big-txt1 {
+	margin-top: 88px;
+	font-size: 32px;
+	text-align: center;
+}
+.advertising-small-txt1 {
+	margin-top: 23px;
+	text-align: center;
+	font-size: 18px;
+}
+.rod4 {
+	display: flex;
+	position: relative;
+	top: 71px;
+	background-color: #231f20;
+	width: 1170px;
+	height: 370px;
+	margin: auto;
+}
+.rod4 > img {
+	width: 400px;
+	height: 370px;
+}
+.rod4-text {
+	color: #fff;
+	margin: 63px 0 49px 78px;
+}
+.author-text1 {
+	font-size: 14px;
+	margin-bottom: 27px;
+}
+.author-text2 {
+	font-size: 48px;
+	margin-bottom: 60px;
+	width: 492px;
+}
+.author-text3 {
+	font-size: 18px;
+	margin-bottom: 60px;
+}
+.All-end-text {
+	width: 65%;
+	position: relative;
+	top: 100px;
+	left: 18%;
+	display: flex;
+}
+.End-text1, .End-text4 {
+	font-size: 24px;
+}
+.End-text {
+	width: 570px;
+	height: 290px;
+	margin-right: 30px;
+	padding: 50px;
+	box-shadow: 10px 10px 15px 0px rgba(0, 0, 0, 0.05);
+}
+.End-text2, .End-text5 {
+	font-size: 18px;
+	margin-top: 16px;
+}
+.End-text3, .End-text6 {
+	font-size: 14px;
+	margin-top: 30px;
+}
+footer {
+	margin-top: 170px;
+	padding: 115px 420px 35px 405px;
+}
+.table-text {
+	display: flex;
+	position: relative;
+	left: 125px;
+	bottom: 35px;
+}
+.table-text > ul > li {
+	list-style-type: none;
+	display: inline;
+	margin-left: 81px;
+}
+.logo {
+	width: 40px;
+	display: flex;
+	margin: auto;
+	position: relative;
+	right: 160px;
+	top: 55px;
+}
+.txt {
+	text-align: center;
+	font-size: 14px;
+	margin-top: 112px;
+}
+.logo > img {
+	margin-left: 24px;
+	cursor: pointer;
+}
+.table-text > img {
+	color: #f7941e;
+	margin-left: 100px;
+}
